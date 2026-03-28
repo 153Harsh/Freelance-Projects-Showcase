@@ -1,41 +1,61 @@
 # 🚀 Freelance Projects Showcase
 
 ## 💼 Overview
-Delivered 10+ real-world web and mobile applications for clients using modern technologies like MERN stack, React Native, and AI integrations.
+Delivered 10+ real-world web and mobile applications using MERN stack, React Native, AI, and modern backend technologies.
 
 ---
 
-## 📱 CyberVigil (Cybersecurity App)
-- Gamified cybersecurity learning platform
-- Built using React Native + Supabase
-- Interactive missions and challenges
+## 🧠 AI & Advanced Projects
 
----
-
-## 🛒 BookCycle (Marketplace App)
-- Buy/sell second-hand books
-- Features: authentication, listings, user interaction
-- Tech: MERN stack
-
----
-
-## 🎥 Sync Video Stream
-- Real-time video streaming platform
-- Multi-user sync + chat features
-
----
-
-## 🧠 ChurnVision (AI App)
+### 📊 ChurnVision (AI App)
 - Customer churn prediction using ML models
-- Built with Python + mobile integration
+- Real-time predictions & analytics
+- Tech: Python, React Native, Flask
+
+### 🥗 AI Diet Planner
+- Personalized diet recommendation system
+- AI-based logic for meal suggestions
 
 ---
 
-## 🏠 Home Service App
-- Service booking platform
-- Real-time scheduling and user management
+## 📱 Mobile Applications (React Native)
+
+### 🛡 CyberVigil App
+- Gamified cybersecurity learning platform
+- Missions, quizzes, and challenges
+
+### 🧠 PsyGrow
+- Mental wellness tracking app with AI insights
+
+### 👨‍👩‍👧 SafeKid Monitoring
+- Parental control app with tracking features
+
+### 🛠 Home Service App
+- Booking platform for household services
+- Real-time scheduling and tracking
 
 ---
 
-## ⚡ Note
-Due to client privacy, source code is not publicly available.
+## 🌐 Web Applications
+
+### 🎨 Ventis
+- Creative marketplace for artists
+
+### 📰 NewsMonkey
+- News app with API integration
+
+---
+
+## ⚡ Real-Time & Advanced Systems
+
+### 🎥 Sync Video Stream
+- Real-time synchronized video streaming
+- Multi-user interaction + chat
+
+### 👻 Ghost Hunting System
+- Experimental real-time system project
+---
+
+## 🔒 Note
+Due to client confidentiality, source code for most freelance projects is private.  
+Project details are shared for demonstration purposes only.
