@@ -5,14 +5,6 @@ Delivered 10+ real-world web and mobile applications for clients using modern te
 
 ---
 
-## 🦷 AI Dental Assistant (SaaS Platform)
-- AI-powered dental booking system
-- Voice assistant integration
-- Authentication & subscription system
-- Tech: Next.js, PostgreSQL, APIs
-
----
-
 ## 📱 CyberVigil (Cybersecurity App)
 - Gamified cybersecurity learning platform
 - Built using React Native + Supabase
